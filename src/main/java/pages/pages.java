@@ -7,4 +7,9 @@ public class pages {
 		
 		System.out.println("This are login Page");
 	}
+	
+public void loginPages1() {
+		
+		System.out.println("This are login Page");
+	}
 }
